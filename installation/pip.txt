@@ -1,0 +1,7 @@
+pip install pygame
+pip install mysql-connector
+pip install pyttsx3
+pip install pandas
+pip install matplotlib
+pip install requests
+pip install beautifulsoup4
